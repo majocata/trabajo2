@@ -1,0 +1,290 @@
+.majo{
+	position:absolute;
+	background-color: black;
+	font-family: 'Dancing Script', cursive;
+	font-size: 450%;
+	top:2%;
+	left:35%;
+	height:0%;
+}
+.majo1{
+	position:absolute;
+	background-color: black;
+	background-image: url(images.jpg);
+	font-family: 'IM Fell Double Pica SC', serif;
+	font-size: 250%;
+	top:148%;
+	left:15%;
+	height:40%;
+	width: 40%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.majo18 {
+	position:absolute;
+	background-image: url(primero.jpg);
+	top:-25%;
+	left:105%;
+	height: 200%;
+	width: 90%; 
+	border: black 5px solid;
+	background-size: cover;
+	display: none;
+}
+.majo1:active .majo18 {
+  display: block;
+}
+.majo4{
+	position:absolute;
+	background-color: black;
+	font-family: 'Fascinate', cursive;
+	font-size: 450%;
+	top:125%;
+	left:30%;
+	height:0%;
+}
+.majo2{
+	position:absolute;
+	background-color: black;
+	font-family: 'Fascinate', cursive;
+	font-size: 450%;
+	top:35%;
+	left:11%;
+	height:0%;
+}
+.majo3{
+	position:absolute;
+	background-color: black;
+	background-image: url(images.jpg);
+	font-family: 'IM Fell Double Pica SC', serif;
+	font-size: 210%;
+	top:55%;
+	left:5%;
+	height:40%;
+	width: 40%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.majo3:hover {
+	position:absolute;
+	background-color: black;
+	background-image: url(descarga.jpg);
+	font-family: 'IM Fell Double Pica SC', serif;
+	font-size: 210%;
+	top:55%;
+	left:5%;
+	height:40%;
+	width: 40%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.majo7{
+	position:absolute;
+	background-color: black;
+	background-image: url(images.jpg);
+	font-family: 'IM Fell Double Pica SC', serif;
+	font-size: 210%;
+	top:55%;
+	right:5%;
+	height:40%;
+	width: 40%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.majo7:hover {
+	position:absolute;
+	background-color: black;
+	background-image: url(descarga.jpg);
+	font-family: 'IM Fell Double Pica SC', serif;
+	font-size: 210%;
+	top:55%;
+	right:5%;
+	height:40%;
+	width: 40%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.majo5{
+	position:absolute;
+	background-color: black;
+	font-family: 'Fascinate', cursive;
+	font-size: 450%;
+	top:235%;
+	left:38%;
+	height:0%;
+}
+.majo8{
+	position:absolute;
+	background-color: black;
+	background-image: url(images.jpg);
+	font-family: 'IM Fell Double Pica SC', serif;
+	font-size: 210%;
+	top:255%;
+	left:5%;
+	height:40%;
+	width: 40%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.majo8:hover {
+	position:absolute;
+	background-color: black;
+	background-image: url(descarga.jpg);
+	font-family: 'IM Fell Double Pica SC', serif;
+	font-size: 210%;
+	top:255%;
+	left:5%;
+	height:40%;
+	width: 40%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.majo19{
+	position:absolute;
+	background-color: black;
+	background-image: url(images.jpg);
+	font-family: 'IM Fell Double Pica SC', serif;
+	font-size: 210%;
+	top:255%;
+	right:5%;
+	height:60%;
+	width: 40%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.majo19:hover {
+	position:absolute;
+	background-color: black;
+	background-image: url(descarga.jpg);
+	font-family: 'IM Fell Double Pica SC', serif;
+	font-size: 210%;
+	top:255%;
+	right:5%;
+	height:60%;
+	width: 40%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.majo6{
+	position:absolute;
+	background-color: black;
+	font-family: 'Fascinate', cursive;
+	font-size: 450%;
+	top:350%;
+	left:38%;
+	height:0%;
+}
+.majo9{
+	position:absolute;
+	background-color: black;
+	background-image: url((images.jpg);
+	font-family: 'IM Fell Double Pica SC', serif;
+	font-size: 240%;
+	top:370%;
+	left:5%;
+	height:110%;
+	width: 40%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.majo9:hover {
+	position:absolute;
+	background-color: black;
+	background-image: url(descarga.jpg);
+	font-family: 'IM Fell Double Pica SC', serif;
+	font-size: 240%;
+	top:370%;
+	left:5%;
+	height:110%;
+	width: 40%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.majo10{
+	position:absolute;
+	background-color: black;
+	background-image: url(libreriass.jpg);
+	top:370%;
+	right:5%;
+	height:110%;
+	width: 40%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.majo11{
+	position:absolute;
+	background-color: black;
+	font-family: 'Coiny', cursive;
+	font-size: 260%;
+	font-color:black;
+	top:20%;
+	left:8%;
+	height:0%;
+}
+.majo12{
+	position:absolute;
+	background-color: black;
+	font-family: 'Coiny', cursive;
+	font-size: 260%;
+	font-color:black;
+	top:20%;
+	left:48%;
+	height:0%;
+}
+.majo13{
+	position:absolute;
+	background-color: black;
+	font-family: 'Coiny', cursive;
+	font-size: 260%;
+	font-color:black;
+	top:20%;
+	left:78%;
+	height:0%;
+}
+.majo14{
+	position:absolute;
+	background-color: black;
+	top:15%;
+	left:8%;
+	height:0%;
+}
+.majo17{
+	position:absolute;
+	background-color: black;
+	font-family: 'Coiny', cursive;
+	font-size: 230%;
+	font-color:black;
+	top:125%;
+	left:2%;
+	height:0%;
+}.majo16{
+	position:absolute;
+	background-color: black;
+	font-family: 'Coiny', cursive;
+	font-size: 230%;
+	font-color:black;
+	top:350%;
+	left:2%;
+	height:0%;
+}.majo15{
+	position:absolute;
+	background-color: black;
+	font-family: 'Coiny', cursive;
+	font-size: 230%;
+	font-color:black;
+	top:235%;
+	left:2%;
+	height:0%;
+}
